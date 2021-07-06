@@ -2,15 +2,15 @@ Please find below the list of proposed test cases for automation.
 
 Due to time limitation, i have added only happy path tests.
 
-###Pet API
+### Pet API
 - POST /pet
 - GET ​/pet​/{petId}
 
-###Store API
+### Store API
 - POST /store/order
 - GET ​/store/order/{orderId}
 
-###User API
+### User API
 - POST ​/user
 - GET ​​/user​/{username}
 - GET ​​​/user​/login
