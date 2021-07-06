@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Swagger petstore API tests
+
+swaggerpetstore:
+  endpoint: http://localhost
+  port: 8080
