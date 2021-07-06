@@ -2,6 +2,8 @@ Please find below the list of proposed test cases for automation.
 
 Due to time limitation, i have added only happy path tests.
 
+Tests are in the module ta-swagger-petstore.
+
 ### Pet API
 - POST /pet
 - GET ​/pet​/{petId}
